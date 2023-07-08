@@ -1,0 +1,25 @@
+{
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Falguni Nayar",
+        "role": "Founder and CEO of Nykaa",
+        "speech": "Amazing experience, the staff at the JW Spa Sahar were so attentive and accommodating.",
+        "image": "images/test2.png"
+      },
+      {
+        "id": 2,
+        "name": "Udit Gupta",
+        "role": " Founder & Creator of Menstrupedia",
+        "speech": "I had such an amazing experience by booking aching feet massage with therapist Thinley .",
+        "image": "images/test1.png"
+      },
+      {
+        "id": 3,
+        "name": "Vani Kola",
+        "role": "Founder of Kalaari Capital",
+        "speech": "The therapist and the design and the service here are truly exceptional.",
+        "image": "images/test3.png"
+      }
+    ]
+}

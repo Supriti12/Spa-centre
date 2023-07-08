@@ -1,0 +1,63 @@
+{
+  "name": "spa",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.5",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "concurrently": "^8.2.0",
+    "json-server": "^0.17.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-owl-carousel": "^2.3.3",
+    "react-redux": "^8.1.0",
+    "react-router-dom": "^6.13.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "react-toastify": "^9.1.3",
+    "redux": "^4.2.1",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "json-server": "json-server --watch src/Database/Contact/db.json --host 127.0.0.1 --port 3003",
+    "json-server-auth": "json-server --watch src/Database/admin/db.json --host 127.0.0.1 --port 3005",
+    "json-server-about": "json-server --watch src/Database/about/db.json --host 127.0.0.1 --port 3004",
+    "json-server-appointment": "json-server --watch src/Database/Appointment/db.json --host 127.0.0.1 --port 3009",
+    "json-server-testimonial": "json-server --watch src/Database/testimonial/db.json --host 127.0.0.1 --port 3006",
+    "json-server-blog": "json-server --watch src/Database/blog/db.json --host 127.0.0.1 --port 3007",
+    "json-server-service": "json-server --watch src/Database/service/db.json --host 127.0.0.1 --port 3008",
+    "dev": "concurrently \"npm start\" \"npm run json-server-about\" \"npm run json-server\" \"npm run json-server-appointment\" \"npm run json-server-testimonial\" \"npm run json-server-blog\" \"npm run json-server-service\" \"npm run json-server-auth\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

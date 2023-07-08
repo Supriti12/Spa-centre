@@ -1,0 +1,65 @@
+.register{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url("https://w0.peakpx.com/wallpaper/686/970/HD-wallpaper-spa-background-pretty-zen-relax-background-beautiful-leaves-stones-water-green-spa-flower-reflection.jpg");
+    justify-content: center;
+    background-size: contain;
+    
+}
+.registertitle{
+    font-size: 50px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.registerform{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width:  50px;
+
+}
+.registerform > label{
+    margin: 5px 0;
+    color: white;
+
+}
+.registerform > input{
+  padding: 10px;
+  background-color: white;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+.registerbtn{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: red;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.registerregister{
+position: absolute;
+top: 100px;
+right: 20px;
+background-color: rgb(7, 68, 68);
+cursor: pointer;
+border: none;
+color: white;
+border-radius: 5px;
+
+}
+.loginregister1{
+    position: absolute;
+    top: 100px;
+    right: 7rem;
+    background-color: wheat;
+    border: none;
+    color: black;
+
+    
+    }

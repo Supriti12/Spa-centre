@@ -1,0 +1,38 @@
+{
+    "about":[
+        {
+            "title":"American Spa",
+            "body":"Your professional source for spa industry news, trends, research, and more. For over 20 years, American Spa magazine has been a one-stop destination for spa professionals. Reporting on the newest trends in the industry, the magazine invites readers to explore the dynamic spa world and share what is vital for success.",
+            "ReadMore":"Our team of skilled therapists and wellness experts are dedicated to creating a personalized experience for each of our guests. With years of experience in the industry, they are passionate about helping you achieve your wellness goals. They are trained in a variety of therapeutic techniques and are committed to providing exceptional service tailored to your unique needs.We take a holistic approach to wellness, recognizing the interconnectedness of the body, mind, and spirit. Our treatments are carefully crafted to address your physical, emotional, and energetic well-being. Whether you're seeking relaxation, stress relief, or a deeper level of healing, our holistic therapies will leave you feeling balanced and restored.",
+            "image":"images/about_img.jpg",
+            "img":"https://spacenterkolkata.com/img/slideshow/slide1.jpg",
+            "id":1
+        }
+    ],
+    "banner":[
+        {
+            "title":"A Delightful Experience",
+            "body":" Indulge in a world of relaxation and rejuvenation at Tranquil Haven Spa, your ultimate escape from the stresses of everyday life. Nestled in the heart of serene surroundings, our spa offers a haven of tranquility where you can pamper yourself and restore your mind, body, and soul.",
+            "image":"images/img1.png",
+            "img":"images/img2.png",
+            "id":1
+
+        },
+        {
+            "title":"Unleash Your Inner Radiance",
+            "body":"Treat yourself to a haven of peace and tranquility at Tranquil Haven Spa, where every visit promises to revive your body, mind, and spirit. Book your escape today and embark on a journey of pure bliss.",
+            "image":"images/img3.jpg",
+            "img":"images/img4.jpg",
+            "id":2
+
+        },
+        {
+            "title":"Unwind in Luxury",
+            "body":"Leave your worries at the door and immerse yourself in an oasis of peace and serenity. Our tranquil ambiance and soothing atmosphere create the ideal setting for relaxation and renewal. Let the gentle music, aromatic scents, and skilled hands transport you to a state of pure bliss.",
+            "image":"images/img5.jpg",
+            "img":"images/img6.jpg",
+            "id":3
+
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "service": "Ayurveda Spa",
+            "servicedata": "The moment that you walk into Ayurveda Spa, you will find yourself swept away to a world of peace and tranquility. Located just steps away from the beautiful Okanagan Lake.",
+            "image": "https://cdn.shopify.com/s/files/1/0710/5206/7133/products/manicure-0_bebs.webp?v=1682333506",
+            "category": "Ayurveda",
+            "ReadMore":"Ayurveda Spa is a pure water spa in Wokingham, Berkshire. Experience a truly relaxing spa day, with unique state-of-the-art spa facilities.The Ayurveda Spas Online Magazine features in-depth stories on hot tubs, lifestyle, wellness, fitness, outdoor living tips, & fun.Our blog shares tips, tricks, and inspiration for your hot tub or swims spa installation. Popular posts include hot tub chemical help and backyard ideas. Master Spas is the largest swim spa, portable spa, and hot tub manufacturer. Our management team has over 200 years of spa manufacturing success, and one of the strongest track records in the industry."
+        },
+        {
+            "id": 2,
+            "service": "Massage Spa",
+            "servicedata": "The moment that you walk into Massage Spa, you will find yourself swept away to a world of peace and tranquility.",
+            "image": "https://c4.wallpaperflare.com/wallpaper/322/759/825/woman-hands-head-skin-wallpaper-preview.jpg",
+            "category": "Massage",
+            "ReadMore":"Massage Spa is a luxurious pure water spa in Wokingham, Berkshire. Experience a truly relaxing spa day, with unique state-of-the-art spa facilities.The Massage Spas Online Magazine features in-depth stories on hot tubs, lifestyle, wellness, fitness, outdoor living tips, & fun.Our blog shares tips, tricks, and inspiration for your hot tub or swims spa installation. Popular posts include hot tub chemical help and backyard ideas. Master Spas is the largest swim spa, portable spa, and hot tub manufacturer. Our management team has over 200 years of spa manufacturing success, and one of the strongest track records in the industry."
+        },
+        {
+            "id": 3,
+            "service": "Luxury Spa",
+            "servicedata": "The moment that you walk into Luxury Spa, you will find yourself swept away to a world of peace and tranquility.",
+            "image": "https://pointlomahomes.com/wp-content/uploads/2019/04/spas-in-san-diego.jpeg",
+            "category": "Luxury",
+            "ReadMore":"Luxury Spa is a luxurious pure water spa in Wokingham, Berkshire. Experience a truly relaxing spa day, with unique state-of-the-art spa facilities.The Luxury Spas Online Magazine features in-depth stories on hot tubs, lifestyle, wellness, fitness, outdoor living tips, & fun.Our blog shares tips, tricks, and inspiration for your hot tub or swims spa installation. Popular posts include hot tub chemical help and backyard ideas. Master Spas is the largest swim spa, portable spa, and hot tub manufacturer. Our management team has over 200 years of spa manufacturing success, and one of the strongest track records in the industry."
+        },
+        {
+            "id": 4,
+            "service": "Day Spa",
+            "servicedata": "The moment that you walk into Day Spa, you will find yourself swept away to a world of peace and tranquility. Located just steps away from the beautiful Okanagan Lake.",
+            "image": "https://img.freepik.com/free-photo/beauty-spa_144627-46202.jpg?w=740&t=st=1687066769~exp=1687067369~hmac=a960a47294128a1d0f68f6b817b0c30c0bdb29a79519655ee9ec8dd1d34140fb",
+            "category": "Ayurveda",
+            "ReadMore":"Day Spa is a luxurious pure water spa in Wokingham, Berkshire. Experience a truly relaxing spa day, with unique state-of-the-art spa facilities.The Ayurveda Spas Online Magazine features in-depth stories on hot tubs, lifestyle, wellness, fitness, outdoor living tips, & fun.Our blog shares tips, tricks, and inspiration for your hot tub or swims spa installation. Popular posts include hot tub chemical help and backyard ideas. Master Spas is the largest swim spa, portable spa, and hot tub manufacturer. Our management team has over 200 years of spa manufacturing success, and one of the strongest track records in the industry."
+        },
+        {
+            "id": 5,
+            "service": "Foot Spa",
+            "servicedata": "The moment that you walk into Foot Spa, you will find yourself swept away to a world of peace and tranquility. Located just steps away from the beautiful Okanagan Lake.",
+            "image": "https://c4.wallpaperflare.com/wallpaper/834/607/705/flowers-stones-pedicure-spa-wallpaper-preview.jpg",
+            "category": "Massage",
+            "ReadMore":"Foot Spa is a luxurious pure water spa in Wokingham, Berkshire. Experience a truly relaxing spa day, with unique state-of-the-art spa facilities.The Massage Spas Online Magazine features in-depth stories on hot tubs, lifestyle, wellness, fitness, outdoor living tips, & fun.Our blog shares tips, tricks, and inspiration for your hot tub or swims spa installation. Popular posts include hot tub chemical help and backyard ideas. Master Spas is the largest swim spa, portable spa, and hot tub manufacturer. Our management team has over 200 years of spa manufacturing success, and one of the strongest track records in the industry."
+        },
+        {
+            "id": 6,
+            "service": "Resort and Hotel Spa",
+            "servicedata": "The moment that you walk into Resort and Hotel Spa, you will find yourself swept away to a world of peace and tranquility. Located just steps away from the beautiful Okanagan Lake.",
+            "image": "https://c4.wallpaperflare.com/wallpaper/995/898/376/flowers-hand-nails-orchid-wallpaper-preview.jpg",
+            "category": "Luxury",
+            "ReadMore":"If you are looking for eco-friendly luxury spas in San Diego, Ranchero Valencia is a great option.All their products are earth-friendly. Enjoy their wellness ritual which includes a body wrap, guided meditation and facial. All treatments include access to the spa pool, the hydrotherapy circuit, sauna, and steam rooms and fitness classes.Our blog shares tips, tricks, and inspiration for your hot tub or swims spa installation. Popular posts include hot tub chemical help and backyard ideas. Master Spas is the largest swim spa, portable spa, and hot tub manufacturer. Our management team has over 200 years of spa manufacturing success, and one of the strongest track records in the industry."
+        }
+    ]
+}

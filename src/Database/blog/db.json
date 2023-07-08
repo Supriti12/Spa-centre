@@ -1,0 +1,58 @@
+{
+    "blogdata":[
+        {
+            "title":"American Spa",
+            "body":"Your professional source for spa industry news,trends.American Spa magazine has been a one-stop destination. ",
+            "ReadMore":"Everything You Wanted to Know About The Spa Industry From the Skin Care Expert. Lydia Sarfati is a Polish-born American esthetician, entrepreneur, consultant and author.Her skincare method is practiced by top estheticians around the world.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+            "date":"15-06-2023",
+            "catagories":"American",
+            "image":"https://c4.wallpaperflare.com/wallpaper/827/289/238/flower-stones-candle-bamboo-wallpaper-preview.jpg",
+            "id":1
+        },
+        {
+            "title":"Organic Spa Magazine",
+            "body":"Welcome to Organic Spa which offers a window on the world of personal health, wellness and organic green living.",
+            "ReadMore":"AYA Medical Spa's blog keeps you up to date with skin care specials and services offered at their award winning medical spa in Atlanta, Georgia.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+            "date":"16-06-2023",
+            "catagories":"Indian",
+            "image":"https://c4.wallpaperflare.com/wallpaper/620/611/697/flowers-towel-candles-orchids-wallpaper-preview.jpg",
+            "id":2
+        },
+        {
+            "title":" Day Spa Association - Spa and Wellness Blog",
+            "body":"The spa and wellness blog from the Day Spa Association brings you hot topics and recent trends about the spa industry.",
+            "ReadMore":"The largest chain of beauty and wellness spas in India. Tattva offers holistic spa servcies and aims to revitalise your life. Tattva aims to bring best-in class, quality & affordable spa services within easy reach for holistic wellness in life.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+            "date":"17-06-2023",
+            "catagories":"Italian",
+            "image":"https://c4.wallpaperflare.com/wallpaper/277/173/260/stones-candles-aromatherapy-spa-wallpaper-preview.jpg",
+            "id":3
+        },
+        {
+            "title":" Neroli Salon & Spa Blog",
+            "body":"Your professional source for spa industry news,trends.American Spa magazine has been a one-stop destination.",
+            "ReadMore":"Everything You Wanted to Know About The Spa Industry From the Skin Care Expert. Lydia Sarfati is a Polish-born American esthetician, entrepreneur, consultant and author.Her skincare method is practiced by top estheticians around the world.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+            "date":"15-06-2022",
+            "catagories":"American",
+            "image":"https://c4.wallpaperflare.com/wallpaper/906/943/771/flower-water-stones-bamboo-wallpaper-preview.jpg",
+            "id":4
+        },
+        {
+            "title":"Master Spas Blog",
+            "body":"Welcome to Organic Spa which offers a window on the world of personal health, wellness and organic green living.",
+            "ReadMore":"AYA Medical Spa's blog keeps you up to date with skin care specials and services offered at their award winning medical spa in Atlanta, Georgia.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+            "date":"16-06-2022",
+            "catagories":"Indian",
+            "image":"https://c4.wallpaperflare.com/wallpaper/764/154/373/stones-candle-bamboo-orchid-wallpaper-preview.jpg",
+            "id":5
+        },
+        {
+            "title":"Nirvana Spa Blog",
+            "body":"The spa and wellness blog from the Day Spa Association brings you hot topics and recent trends about the spa industry.",
+            "ReadMore":"The largest chain of beauty and wellness spas in India. Tattva offers holistic spa servcies and aims to revitalise your life. Tattva aims to bring best-in class, quality & affordable spa services within easy reach for holistic wellness in life.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+            "date":"17-06-2022",
+            "catagories":"Italian",
+            "image":"https://c4.wallpaperflare.com/wallpaper/337/541/307/flower-stones-perfume-bamboo-wallpaper-preview.jpg",
+            "id":6
+        }
+    ]
+}
